@@ -1,8 +1,8 @@
 # DAO's
 
-## **D**ecentraalized <br>
-## **A**utonomous <br>
-## **O**rganization <br>
+### **D**ecentraalized <br>
+### **A**utonomous <br>
+### **O**rganization <br>
 
 
 - Any group that is goverened by a transparent set of rules found on a block chain or smart contract
@@ -12,7 +12,6 @@
 - Company/Organiztion that is operated exclusively through code
 
 ## Combound protocol
---------
 The compound protocol is a borrowing and lending application that allows users to borrow and lend their assests.
 - everything in this applicaiton is built in smart contracts
 
@@ -30,7 +29,6 @@ Within the governance section of the application is where you can find all the p
 
 
 ## Dao Voting Mechanism
------
 
 So how do you engage in a DAO?? You might find that his a bit of a tricky problem to solve. 
 
@@ -53,7 +51,7 @@ So how do you engage in a DAO?? You might find that his a bit of a tricky proble
 
 
 ## Impelentation of the voting
------- 
+
 **On chain voting**
 - smart contract on chain that has voting mechnanics that allows user to vote
     - downside is user has to pay to vote (GAS)
@@ -66,14 +64,14 @@ So how do you engage in a DAO?? You might find that his a bit of a tricky proble
 
 
 ## Dao No Code Solutions
-------- 
+
 - daoStack
 - aragon
 - colony 
 - tao house
 
 ## Dao code Soultions
-----
+
 - snapshot
     - one of the most popular tools out there for both getting the sentiment of a Dao. and actually performing that execution, users can vote through this protocol with their actual tokens, those transcations get stored in IPFS. But none of it actually gets exectued. Unless the DAO chooses to.
 - Zodiac 
